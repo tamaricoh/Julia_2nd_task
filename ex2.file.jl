@@ -1,4 +1,3 @@
-# Tamar Cohen & Yuval Aroosh
 
 using Pkg
 Pkg.add("Plots")
